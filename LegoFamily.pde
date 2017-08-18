@@ -1,4 +1,5 @@
-// Simpson family example code
+// Lego Family
+// Starter Code
 
 void setup() {
   size(700,400);
